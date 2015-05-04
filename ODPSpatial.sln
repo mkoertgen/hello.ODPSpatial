@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ODPSpatial", "ODPSpatial\ODPSpatial.csproj", "{32DCD1BA-DE2F-499B-B0AA-6615A1E7D427}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ODPSpatial.Tests", "ODPSpatial.Tests\ODPSpatial.Tests.csproj", "{0A5F3C1A-EE3E-490F-AA4C-1DE5DED42B37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsSample", "WinFormsSample\WinFormsSample.csproj", "{BBFF89B4-430B-4762-9257-C9696A7F326B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32DCD1BA-DE2F-499B-B0AA-6615A1E7D427}.Debug|x86.ActiveCfg = Debug|x86
+		{32DCD1BA-DE2F-499B-B0AA-6615A1E7D427}.Debug|x86.Build.0 = Debug|x86
+		{32DCD1BA-DE2F-499B-B0AA-6615A1E7D427}.Release|x86.ActiveCfg = Release|x86
+		{32DCD1BA-DE2F-499B-B0AA-6615A1E7D427}.Release|x86.Build.0 = Release|x86
+		{0A5F3C1A-EE3E-490F-AA4C-1DE5DED42B37}.Debug|x86.ActiveCfg = Debug|x86
+		{0A5F3C1A-EE3E-490F-AA4C-1DE5DED42B37}.Debug|x86.Build.0 = Debug|x86
+		{0A5F3C1A-EE3E-490F-AA4C-1DE5DED42B37}.Release|x86.ActiveCfg = Release|x86
+		{0A5F3C1A-EE3E-490F-AA4C-1DE5DED42B37}.Release|x86.Build.0 = Release|x86
+		{BBFF89B4-430B-4762-9257-C9696A7F326B}.Debug|x86.ActiveCfg = Debug|x86
+		{BBFF89B4-430B-4762-9257-C9696A7F326B}.Debug|x86.Build.0 = Debug|x86
+		{BBFF89B4-430B-4762-9257-C9696A7F326B}.Release|x86.ActiveCfg = Release|x86
+		{BBFF89B4-430B-4762-9257-C9696A7F326B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
